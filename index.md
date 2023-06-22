@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blogssasas
+title: Hi!
 ---
-
-alo
+This will be where I write down my learning progession
