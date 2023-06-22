@@ -3,3 +3,8 @@ title: "Cybersecurity Stuff"
 author: "Randall Woo"
 desciption: "alo"
 lang: "en"
+
+# Menu
+
+navigation:
+ - [title: "Home", file: "/home.md}
